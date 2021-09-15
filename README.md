@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @arkadaq
 - 👀 I’m interested in Video Codecs/Compression, Image Processing, algorithms, multithreading, low-level optimizations
+- ❤️ DIY like Arduino, Raps PI
 - 🌱 I’m currently learning DS + ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
