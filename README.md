@@ -3,7 +3,7 @@
 - ❤️ DIY like Arduino, Raps PI
 - 🌱 I’m currently learning DS + ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin.com/in/tbalbot, https://www.kaggle.com/tbalbot
+- 📫 How to reach me https://linkedin.com/in/tbalbot, https://www.kaggle.com/tbalbot
 - 
 
 <!---
