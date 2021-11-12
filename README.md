@@ -3,7 +3,8 @@
 - ❤️ DIY like Arduino, Raps PI
 - 🌱 I’m currently learning DS + ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin.com/in/tbalbot, https://www.kaggle.com/tbalbot
+- 
 
 <!---
 arkadaq/arkadaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
