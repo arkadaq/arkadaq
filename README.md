@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arkadaq
 - 👀 I’m interested in Video Codecs/Compression, Image Processing, algorithms, multithreading, low-level optimizations
-- ❤️ DIY like Arduino, Raps PI
+- ❤️ DIY like Arduino, Raps PI as a hobby
 - 🌱 I’m currently learning DS + ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://linkedin.com/in/tbalbot, https://www.kaggle.com/tbalbot, https://www.codewars.com/users/Arkadaq
